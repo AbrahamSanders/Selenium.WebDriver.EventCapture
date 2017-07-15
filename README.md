@@ -10,7 +10,7 @@ There are quite a few posts from the last few years where people are looking for
 ([here](https://stackoverflow.com/questions/16746757/seleniumwebdriver-is-there-a-listener-to-capture-user-actions-in-the-browser-s),
 [here](https://stackoverflow.com/questions/35884230/can-my-webdriver-script-catch-a-event-from-the-webpage),
 [here](https://stackoverflow.com/questions/9805508/how-to-capture-user-action-on-browser-by-java-code),
-[here](https://groups.google.com/forum/#!msg/selenium-users/29GyTVvayCE/Peog4KuGOcUJ),
+[here](https://groups.google.com/d/msg/selenium-users/29GyTVvayCE/5NjKPbc5X1wJ),
 etc...), so it is only logical to assume that there is need for it.
 
 ## How does it work?
